@@ -1,1 +1,1 @@
-store installed on 5/19/2016
+Return status for relationship on 5/27/2016

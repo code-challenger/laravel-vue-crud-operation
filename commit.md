@@ -1,1 +1,1 @@
-Update readme.md on 6/3/2016
+Fix typo in vuetable-2 dependencies section on 6/9/2016

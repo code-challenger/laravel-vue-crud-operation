@@ -1,1 +1,1 @@
-Update app.js as MyVuetable.vue was updated on 6/14/2016
+Update package dependencies on 6/17/2016

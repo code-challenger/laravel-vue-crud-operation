@@ -1,1 +1,1 @@
-Update package dependencies on 6/17/2016
+follow tutorial up to lesson-6 on 6/21/2016
